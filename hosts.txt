@@ -24,6 +24,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 en.as.com
 0.0.0.0 magistv.name
 0.0.0.0 vrbrnq.chkgdfcdh.com
+0.0.0.0 mbee.oihsasd1.ds.com
+0.0.0.0 umengacs.m.taobao.com
+0.0.0.0 msgacs.m.umeng.com.gds.alibabadns.com
+0.0.0.0 mad.lgaiwmc1d.com
 0.0.0.0 142.250.179
 0.0.0.0 142.250.75.234
 0.0.0.0 188.114.96.2
