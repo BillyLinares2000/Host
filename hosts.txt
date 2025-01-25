@@ -21,7 +21,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 #=====================================
-0.0.0.0 en.as.com
 0.0.0.0 magistv.name
 0.0.0.0 crashlytics.com
 0.0.0.0 firebase-settings.crashlytics.com
