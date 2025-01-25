@@ -35,6 +35,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 mad.lgaiwmc1d.com
 0.0.0.0 sad.fikloshk1.com
 0.0.0.0 mpg.yjda1lddfs.com
+0.0.0.0 amdcopen.m.taobao.com
+0.0.0.0 amdcopen.m.taobao.com.gds.alibabadns.com
+0.0.0.0 mno.lgaiwmc1d.com
+0.0.0.0 zmupg.mdasf1ladh.com
+0.0.0.0 hapdw.cda1w2c3c.com
 0.0.0.0 142.250.179.106
 0.0.0.0 142.250.75.234
 0.0.0.0 188.114.96.2
