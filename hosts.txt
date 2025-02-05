@@ -58,3 +58,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 216.58.214.170
 0.0.0.0 216.58.215.42
 0.0.0.0 sbee.ndhaliadg.com
+0.0.0.0 sno.fikloshk1.com
