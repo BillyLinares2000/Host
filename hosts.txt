@@ -59,3 +59,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 216.58.215.42
 0.0.0.0 sbee.ndhaliadg.com
 0.0.0.0 sno.fikloshk1.com
+0.0.0.0 on-hweudc-o.api.leiniao.com
+0.0.0.0 on-hwdc-tcp-o-slb-015b101e9076b0ecae.elb.eu-central-1.amazonaws.com
+0.0.0.0 on-hwmsg-ds-o.api.leiniao.com
+0.0.0.0 on-hwmsg-as9-o.api.leiniao.com
