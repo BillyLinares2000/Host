@@ -31,6 +31,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mbee.oihsasd1ds.com
 0.0.0.0 umengacs.m.taobao.com
 0.0.0.0 msgacs.m.umeng.com.gds.alibabadns.com
+0.0.0.0 umengjmacs.m.taobao.com
 0.0.0.0 mad.lgaiwmc1d.com
 0.0.0.0 sad.fikloshk1.com
 0.0.0.0 mpg.yjda1lddfs.com
