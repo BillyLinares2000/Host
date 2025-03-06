@@ -64,3 +64,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 on-hwmsg-ds-o.api.leiniao.com
 0.0.0.0 on-hwmsg-as9-o.api.leiniao.com
 0.0.0.0 a2qjkbbsk6qn2u-ats.iot.eu-central-1.amazonaws.com
+0.0.0.0 trds.rhynw2kdug.com
